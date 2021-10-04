@@ -2,7 +2,7 @@
 - 👀 I’m interested in  trabalhar e aprender com a  tecnologia.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate ...
-  - 📫 How to reach me : pelo e-mail -  victorgimenez99@hotmail.com
+- � How to reach me : pelo e-mail -  victorgimenez99@hotmail.com
 
 <!---
 VictorGimenez23/VictorGimenez23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
