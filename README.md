@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VictorGimenez23
 - 👀 I’m interested in  trabalhar e aprender com a  tecnologia.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate ...
 - � How to reach me : pelo e-mail -  victorgimenez99@hotmail.com
 
 <!---
